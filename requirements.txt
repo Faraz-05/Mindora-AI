@@ -1,0 +1,7 @@
+streamlit
+langgraph
+langchain_google_genai
+langchain
+dotenv
+langchain-community
+langgraph-checkpoint-sqlite
