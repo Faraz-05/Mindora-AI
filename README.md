@@ -13,6 +13,7 @@ multiple conversations, generating conversation titles, calling external
 tools, streaming responses, and summarizing older conversation history.
 
 <p align="center">
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Workflow-orange.svg)](https://www.langchain.com/langgraph)
 [![LangChain](https://img.shields.io/badge/LangChain-LLM-green.svg)](https://www.langchain.com/)
@@ -20,6 +21,7 @@ tools, streaming responses, and summarizing older conversation history.
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-red.svg)](https://streamlit.io/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey.svg)](https://www.sqlite.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 </p>
 
 ------------------------------------------------------------------------
@@ -605,9 +607,11 @@ Systems**.
 ------------------------------------------------------------------------
 
 <p align="center">
+
 ### 🧠 Mindora-AI
 
 **An AI assistant that remembers.**
 
 ⭐ Explore the repository and experiment with the architecture.
+
 </p>
