@@ -12,9 +12,8 @@ state, storing useful user information as long-term memory, supporting
 multiple conversations, generating conversation titles, calling external
 tools, streaming responses, and summarizing older conversation history.
 
-```{=html}
 <p align="center">
-```
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Workflow-orange.svg)](https://www.langchain.com/langgraph)
 [![LangChain](https://img.shields.io/badge/LangChain-LLM-green.svg)](https://www.langchain.com/)
@@ -23,9 +22,7 @@ tools, streaming responses, and summarizing older conversation history.
 [![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey.svg)](https://www.sqlite.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-```{=html}
 </p>
-```
 
 ------------------------------------------------------------------------
 
@@ -595,14 +592,6 @@ persistence.
 
 The architecture can be extended with stronger retrieval,
 authentication, observability, testing, and production infrastructure.
-
-------------------------------------------------------------------------
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-See the [LICENSE](LICENSE) file for details.
 
 ------------------------------------------------------------------------
 
