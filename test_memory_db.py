@@ -19,7 +19,7 @@ def test_insert_and_get():
 
     namespace = ("user", "u1", "details")
     key = str(uuid.uuid4())
-    value = {"data":"user name is Maaiz"}
+    value = {"data":"user name is Faraz"}
 
     insert_memory(namespace, key, value)
 
